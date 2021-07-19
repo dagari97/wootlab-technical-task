@@ -30,5 +30,5 @@ function passwordValidator(password) {
         break;
     }
   }
- console.log(options(passwordValidator('kas3@')))
+ console.log(options(passwordValidator('ser3!')))
   
